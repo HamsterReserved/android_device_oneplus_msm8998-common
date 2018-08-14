@@ -57,7 +57,8 @@ PRODUCT_PROPERTY_OVERRIDES += \
     qcom.bluetooth.soc=cherokee \
     ro.bluetooth.a4wp=false \
     ro.bluetooth.emb_wp_mode=true \
-    ro.bluetooth.wipower=true
+    ro.bluetooth.wipower=true \
+    ro.bt.bdaddr_path=/data/misc/bluetooth/bdaddr
 
 # Cabl
 PRODUCT_PROPERTY_OVERRIDES += \
