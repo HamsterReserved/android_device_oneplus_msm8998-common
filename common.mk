@@ -435,7 +435,7 @@ PRODUCT_COPY_FILES += \
 
 # Vibrator
 PRODUCT_PACKAGES += \
-    android.hardware.vibrator@1.0-service.mokee
+    android.hardware.vibrator@1.0-service.oneplus
 
 # VNDK-SP:
 PRODUCT_PACKAGES += \
